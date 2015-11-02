@@ -4,3 +4,4 @@ xdk/
 *.xdke
 *.xdk_bak
 *.xdke_bak
+.DS_Store
