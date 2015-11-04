@@ -10,7 +10,7 @@ try {
   // Try to load the data from data.json. require automatically transforms the JSON into a JS object
   data = require(JSONFile);
 } catch(err) {
-  console.log('The file "data.json" does not exists yet.');
+  console.log('The file "data.json" does not exist yet.');
 
   // Create the data object if it didn't exist before yet
   data = {
